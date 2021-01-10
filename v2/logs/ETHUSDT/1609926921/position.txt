@@ -1,0 +1,131 @@
+This position log was created at UTC: 1609926921.317238(2021-01-06 02:55:21(MDT)).
+
+
+Position updated: 06/01/2021 03:01:56(MDT)
+====================================================================
+symbol: ETHUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: -10.4778
+unrealizedPnl: 0.0
+marginType: cross
+isolatedWallet: 0.0
+positionSide: BOTH
+
+
+
+Position updated: 06/01/2021 03:01:56(MDT)
+====================================================================
+symbol: ETHUSDT
+amount: 0.045
+entryPrice: 1106.65
+preFee: 0.0
+unrealizedPnl: 0.02385
+marginType: cross
+isolatedWallet: 0.0
+positionSide: LONG
+
+
+
+Position updated: 06/01/2021 03:02:06(MDT)
+====================================================================
+symbol: ETHUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: -10.4778
+unrealizedPnl: 0.0
+marginType: cross
+isolatedWallet: 0.0
+positionSide: BOTH
+
+
+
+Position updated: 06/01/2021 03:02:06(MDT)
+====================================================================
+symbol: ETHUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: 0.0855
+unrealizedPnl: 0.0
+marginType: cross
+isolatedWallet: 0.0
+positionSide: LONG
+
+
+
+Position updated: 06/01/2021 03:30:06(MDT)
+====================================================================
+symbol: ETHUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: -10.4778
+unrealizedPnl: 0.0
+marginType: cross
+isolatedWallet: 0.0
+positionSide: BOTH
+
+
+
+Position updated: 06/01/2021 03:30:06(MDT)
+====================================================================
+symbol: ETHUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: 0.0855
+unrealizedPnl: 0.0
+marginType: cross
+isolatedWallet: 0.0
+positionSide: LONG
+
+
+
+Position updated: 06/01/2021 03:30:06(MDT)
+====================================================================
+symbol: ETHUSDT
+amount: -0.045
+entryPrice: 1107.58
+preFee: 0.0
+unrealizedPnl: -0.0009
+marginType: cross
+isolatedWallet: 0.0
+positionSide: SHORT
+
+
+
+Position updated: 06/01/2021 03:32:47(MDT)
+====================================================================
+symbol: ETHUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: -10.4778
+unrealizedPnl: 0.0
+marginType: cross
+isolatedWallet: 0.0
+positionSide: BOTH
+
+
+
+Position updated: 06/01/2021 03:32:47(MDT)
+====================================================================
+symbol: ETHUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: 0.0855
+unrealizedPnl: 0.0
+marginType: cross
+isolatedWallet: 0.0
+positionSide: LONG
+
+
+
+Position updated: 06/01/2021 03:32:47(MDT)
+====================================================================
+symbol: ETHUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: -0.20115
+unrealizedPnl: 0.0
+marginType: cross
+isolatedWallet: 0.0
+positionSide: SHORT
+

@@ -1,0 +1,86 @@
+This profit log was created at UTC: 1610082802.8163989(2021-01-08 05:13:22(UTC)).
+
+
+====================================================================
+PNL for this order:
+clientOrderId: 1610084041220
+positionSide: LONG
+Level: 1
+entryPrice: 38612.75
+exitPrice: 38678.39
+originalSpend: 77.2255
+totalSold: 77.35678
+TakeProfitAmount: 77.35678
+      TakeProfitQuantity: 0.002
+     TakeProfitPrice: 38678.39
+StopLossAmount: 0.0
+       StopLossQuantity: 0.0
+      StopLossPrice: 0.0
+Comission: 0.07725175
+Profit: 0.054028250000003844
+Start Datetime: 2021-01-08 05:34:01(UTC)
+Finished Datetime: 08/01/2021 05:39:45(UTC)
+====================================================================
+
+====================================================================
+PNL for this order:
+clientOrderId: 1610084640737
+positionSide: SHORT
+Level: 1
+entryPrice: 38463.67
+exitPrice: 38398.28
+originalSpend: 76.92734
+totalSold: 76.79656
+TakeProfitAmount: 76.79656
+      TakeProfitQuantity: 0.002
+     TakeProfitPrice: 38398.28
+StopLossAmount: 0.0
+       StopLossQuantity: 0.0
+      StopLossPrice: 0.0
+Comission: 0.10767209999999999
+Profit: 0.023107900000001458
+Start Datetime: 2021-01-08 05:44:00(UTC)
+Finished Datetime: 08/01/2021 05:45:22(UTC)
+====================================================================
+
+====================================================================
+PNL for this order:
+clientOrderId: 1610085126685
+positionSide: LONG
+Level: 2
+entryPrice: 38186.29
+exitPrice: 37954.6
+originalSpend: 76.37258
+totalSold: 75.9092
+TakeProfitAmount: 0.0
+      TakeProfitQuantity: 0.0
+     TakeProfitPrice: 0.0
+StopLossAmount: 75.9092
+       StopLossQuantity: 0.002
+      StopLossPrice: 37954.6
+Comission: 0.12201077
+Profit: -0.5853907700000008
+Start Datetime: 2021-01-08 05:52:06(UTC)
+Finished Datetime: 08/01/2021 05:57:57(UTC)
+====================================================================
+
+====================================================================
+PNL for this order:
+clientOrderId: 1610086037159
+positionSide: LONG
+Level: 2
+entryPrice: 37809.0
+exitPrice: 37895.96
+originalSpend: 75.618
+totalSold: 75.79192
+TakeProfitAmount: 75.79192
+      TakeProfitQuantity: 0.002
+     TakeProfitPrice: 37895.96
+StopLossAmount: 0.0
+       StopLossQuantity: 0.0
+      StopLossPrice: 0.0
+Comission: 0.13614718
+Profit: 0.037772820000009616
+Start Datetime: 2021-01-08 06:07:17(UTC)
+Finished Datetime: 08/01/2021 06:10:44(UTC)
+====================================================================

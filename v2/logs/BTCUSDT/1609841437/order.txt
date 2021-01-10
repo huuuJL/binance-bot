@@ -1,0 +1,21 @@
+This order log was created at UTC: 1609841437.466202(2021-01-05 03:10:37).
+
+
+User order:
+{'eventType': 'ORDER_TRADE_UPDATE', 'eventTime': 1609841450230, 'transactionTime': 1609841450224, 'symbol': 'BTCUSDT', 'clientOrderId': 'web_nqo9ASIOWV6QJeoPDbEv', 'side': 'BUY', 'type': 'MARKET', 'timeInForce': 'GTC', 'origQty': 0.002, 'price': 0.0, 'avgPrice': 0.0, 'stopPrice': 0.0, 'executionType': 'NEW', 'orderStatus': 'NEW', 'orderId': 11430651618, 'lastFilledQty': 0.0, 'cumulativeFilledQty': 0.0, 'lastFilledPrice': 0.0, 'commissionAsset': None, 'commissionAmount': None, 'orderTradeTime': 1609841450224, 'tradeID': 0, 'bidsNotional': 0.0, 'asksNotional': 0.0, 'isMarkerSide': False, 'isReduceOnly': False, 'workingType': 'CONTRACT_PRICE', 'isClosePosition': False, 'activationPrice': None, 'callbackRate': None, 'positionSide': 'LONG'}
+
+
+
+User order:
+{'eventType': 'ORDER_TRADE_UPDATE', 'eventTime': 1609841450230, 'transactionTime': 1609841450224, 'symbol': 'BTCUSDT', 'clientOrderId': 'web_nqo9ASIOWV6QJeoPDbEv', 'side': 'BUY', 'type': 'MARKET', 'timeInForce': 'GTC', 'origQty': 0.002, 'price': 0.0, 'avgPrice': 31548.99, 'stopPrice': 0.0, 'executionType': 'TRADE', 'orderStatus': 'FILLED', 'orderId': 11430651618, 'lastFilledQty': 0.002, 'cumulativeFilledQty': 0.002, 'lastFilledPrice': 31548.99, 'commissionAsset': 'USDT', 'commissionAmount': 0.02523919, 'orderTradeTime': 1609841450224, 'tradeID': 365755062, 'bidsNotional': 0.0, 'asksNotional': 0.0, 'isMarkerSide': False, 'isReduceOnly': False, 'workingType': 'CONTRACT_PRICE', 'isClosePosition': False, 'activationPrice': None, 'callbackRate': None, 'positionSide': 'LONG'}
+
+
+
+User order:
+{'eventType': 'ORDER_TRADE_UPDATE', 'eventTime': 1609841499222, 'transactionTime': 1609841499217, 'symbol': 'BTCUSDT', 'clientOrderId': 'web_0DSBrwUM3QjiSqaTBCjJ', 'side': 'SELL', 'type': 'MARKET', 'timeInForce': 'GTC', 'origQty': 0.002, 'price': 0.0, 'avgPrice': 0.0, 'stopPrice': 0.0, 'executionType': 'NEW', 'orderStatus': 'NEW', 'orderId': 11430686351, 'lastFilledQty': 0.0, 'cumulativeFilledQty': 0.0, 'lastFilledPrice': 0.0, 'commissionAsset': None, 'commissionAmount': None, 'orderTradeTime': 1609841499217, 'tradeID': 0, 'bidsNotional': 0.0, 'asksNotional': 0.0, 'isMarkerSide': False, 'isReduceOnly': True, 'workingType': 'CONTRACT_PRICE', 'isClosePosition': False, 'activationPrice': None, 'callbackRate': None, 'positionSide': 'LONG'}
+
+
+
+User order:
+{'eventType': 'ORDER_TRADE_UPDATE', 'eventTime': 1609841499222, 'transactionTime': 1609841499217, 'symbol': 'BTCUSDT', 'clientOrderId': 'web_0DSBrwUM3QjiSqaTBCjJ', 'side': 'SELL', 'type': 'MARKET', 'timeInForce': 'GTC', 'origQty': 0.002, 'price': 0.0, 'avgPrice': 31615.99, 'stopPrice': 0.0, 'executionType': 'TRADE', 'orderStatus': 'FILLED', 'orderId': 11430686351, 'lastFilledQty': 0.002, 'cumulativeFilledQty': 0.002, 'lastFilledPrice': 31615.99, 'commissionAsset': 'USDT', 'commissionAmount': 0.02529279, 'orderTradeTime': 1609841499217, 'tradeID': 365756178, 'bidsNotional': 0.0, 'asksNotional': 0.0, 'isMarkerSide': False, 'isReduceOnly': True, 'workingType': 'CONTRACT_PRICE', 'isClosePosition': False, 'activationPrice': None, 'callbackRate': None, 'positionSide': 'LONG'}
+

@@ -1,0 +1,79 @@
+This position log was created at UTC: 1609921901.621273(2021-01-06 01:31:41(MDT)).
+
+
+Position updated: 06/01/2021 01:31:48(MDT)
+====================================================================
+symbol: BTCUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: -503.50362999
+unrealizedPnl: 0.0
+marginType: isolated
+isolatedWallet: 0.0
+positionSide: BOTH
+
+
+
+Position updated: 06/01/2021 01:31:48(MDT)
+====================================================================
+symbol: BTCUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: 1.66387
+unrealizedPnl: 0.0
+marginType: isolated
+isolatedWallet: 0.0
+positionSide: LONG
+
+
+
+Position updated: 06/01/2021 01:31:48(MDT)
+====================================================================
+symbol: BTCUSDT
+amount: -0.001
+entryPrice: 34428.75
+preFee: -0.01548
+unrealizedPnl: 0.012811
+marginType: isolated
+isolatedWallet: 6.87784749
+positionSide: SHORT
+
+
+
+Position updated: 06/01/2021 01:31:53(MDT)
+====================================================================
+symbol: BTCUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: -503.50362999
+unrealizedPnl: 0.0
+marginType: isolated
+isolatedWallet: 0.0
+positionSide: BOTH
+
+
+
+Position updated: 06/01/2021 01:31:53(MDT)
+====================================================================
+symbol: BTCUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: 1.66387
+unrealizedPnl: 0.0
+marginType: isolated
+isolatedWallet: 0.0
+positionSide: LONG
+
+
+
+Position updated: 06/01/2021 01:31:53(MDT)
+====================================================================
+symbol: BTCUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: -0.03673
+unrealizedPnl: 0.0
+marginType: isolated
+isolatedWallet: 0.0
+positionSide: SHORT
+

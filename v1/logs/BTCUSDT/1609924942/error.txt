@@ -1,0 +1,103 @@
+This error log was created at UTC: 1609924942.382357(2021-01-06 02:22:22(MDT)).
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.004' was not sent, was empty/null, or malformed. at 2021-01-06 02:23:08.266743
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.004' was not sent, was empty/null, or malformed. at 2021-01-06 02:23:08.955269
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.004' was not sent, was empty/null, or malformed. at 2021-01-06 02:23:09.525275
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.004' was not sent, was empty/null, or malformed. at 2021-01-06 02:23:09.997091
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.004' was not sent, was empty/null, or malformed. at 2021-01-06 02:23:10.454167
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.004' was not sent, was empty/null, or malformed. at 2021-01-06 02:23:10.907490
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.004' was not sent, was empty/null, or malformed. at 2021-01-06 02:23:11.365698
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.004' was not sent, was empty/null, or malformed. at 2021-01-06 02:23:12.035211
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.004' was not sent, was empty/null, or malformed. at 2021-01-06 02:23:12.536522
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.004' was not sent, was empty/null, or malformed. at 2021-01-06 02:23:13.053949
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.004' was not sent, was empty/null, or malformed. at 2021-01-06 02:23:13.523015
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.004' was not sent, was empty/null, or malformed. at 2021-01-06 02:23:14.131969
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.004' was not sent, was empty/null, or malformed. at 2021-01-06 02:23:14.608495
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.004' was not sent, was empty/null, or malformed. at 2021-01-06 02:23:15.047880
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.004' was not sent, was empty/null, or malformed. at 2021-01-06 02:23:15.622292
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.004' was not sent, was empty/null, or malformed. at 2021-01-06 02:23:16.521706
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.004' was not sent, was empty/null, or malformed. at 2021-01-06 02:23:17.184718
+====================================================================
+

@@ -1,0 +1,13 @@
+This error log was created at UTC: 1609844960.631097(2021-01-05 04:09:20(MDT)).
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-05 05:09:21.326329
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-05 05:09:21.887951
+====================================================================
+

@@ -1,0 +1,170 @@
+This profit log was created at UTC: 1610069346.793073(2021-01-07 18:29:06(MDT)).
+
+
+====================================================================
+PNL for this order:
+clientOrderId: 1610069461991
+positionSide: LONG
+Level: 2
+entryPrice: 38686.82
+exitPrice: 38531.71
+originalSpend: 38.68682
+totalSold: 38.53171
+TakeProfitAmount: 0.0
+      TakeProfitQuantity: 0.0
+     TakeProfitPrice: 0.0
+StopLossAmount: 38.53171
+       StopLossQuantity: 0.001
+      StopLossPrice: 38531.71
+Comission: 0.030887400000000002
+Profit: -0.18599740000000053
+Start Datetime: 2021-01-07 18:31:01(MDT)
+Finished Datetime: 07/01/2021 18:32:27(MDT)
+====================================================================
+
+====================================================================
+PNL for this order:
+clientOrderId: 1610069581969
+positionSide: SHORT
+Level: 2
+entryPrice: 38422.4
+exitPrice: 38340.94
+originalSpend: 38.4224
+totalSold: 38.34094
+TakeProfitAmount: 38.34094
+      TakeProfitQuantity: 0.001
+     TakeProfitPrice: 38340.94
+StopLossAmount: 0.0
+       StopLossQuantity: 0.0
+      StopLossPrice: 0.0
+Comission: 0.023037139999999998
+Profit: 0.05842285999999987
+Start Datetime: 2021-01-07 18:33:01(MDT)
+Finished Datetime: 07/01/2021 18:33:48(MDT)
+====================================================================
+
+====================================================================
+PNL for this order:
+clientOrderId: 1610069628792
+positionSide: SHORT
+Level: 2
+entryPrice: 38343.49
+exitPrice: 38262.2
+originalSpend: 38.343489999999996
+totalSold: 38.2622
+TakeProfitAmount: 38.2622
+      TakeProfitQuantity: 0.001
+     TakeProfitPrice: 38262.2
+StopLossAmount: 0.0
+       StopLossQuantity: 0.0
+      StopLossPrice: 0.0
+Comission: 0.015321129999999999
+Profit: 0.06596886999999564
+Start Datetime: 2021-01-07 18:33:48(MDT)
+Finished Datetime: 07/01/2021 18:34:25(MDT)
+====================================================================
+
+====================================================================
+PNL for this order:
+clientOrderId: 1610070002189
+positionSide: LONG
+Level: 2
+entryPrice: 38290.19
+exitPrice: 38371.37
+originalSpend: 38.29019
+totalSold: 38.371370000000006
+TakeProfitAmount: 38.371370000000006
+      TakeProfitQuantity: 0.001
+     TakeProfitPrice: 38371.37
+StopLossAmount: 0.0
+       StopLossQuantity: 0.0
+      StopLossPrice: 0.0
+Comission: 0.0153323
+Profit: 0.06584770000000337
+Start Datetime: 2021-01-07 18:40:02(MDT)
+Finished Datetime: 07/01/2021 18:40:15(MDT)
+====================================================================
+
+====================================================================
+PNL for this order:
+clientOrderId: 1610070015193
+positionSide: LONG
+Level: 2
+entryPrice: 38365.63
+exitPrice: 38212.0
+originalSpend: 38.365629999999996
+totalSold: 38.212
+TakeProfitAmount: 0.0
+      TakeProfitQuantity: 0.0
+     TakeProfitPrice: 0.0
+StopLossAmount: 38.212
+       StopLossQuantity: 0.001
+      StopLossPrice: 38212.0
+Comission: 0.02295792
+Profit: -0.1765879199999926
+Start Datetime: 2021-01-07 18:40:15(MDT)
+Finished Datetime: 07/01/2021 18:44:41(MDT)
+====================================================================
+
+====================================================================
+PNL for this order:
+clientOrderId: 1610070302407
+positionSide: SHORT
+Level: 2
+entryPrice: 38270.23
+exitPrice: 38189.1
+originalSpend: 38.270230000000005
+totalSold: 38.189099999999996
+TakeProfitAmount: 38.189099999999996
+      TakeProfitQuantity: 0.001
+     TakeProfitPrice: 38189.1
+StopLossAmount: 0.0
+       StopLossQuantity: 0.0
+      StopLossPrice: 0.0
+Comission: 0.02294591
+Profit: 0.058184090000008806
+Start Datetime: 2021-01-07 18:45:02(MDT)
+Finished Datetime: 07/01/2021 18:45:21(MDT)
+====================================================================
+
+====================================================================
+PNL for this order:
+clientOrderId: 1610070322090
+positionSide: SHORT
+Level: 2
+entryPrice: 38180.0
+exitPrice: 38336.78
+originalSpend: 38.18
+totalSold: 38.33678
+TakeProfitAmount: 0.0
+      TakeProfitQuantity: 0.0
+     TakeProfitPrice: 0.0
+StopLossAmount: 38.33678
+       StopLossQuantity: 0.001
+      StopLossPrice: 38336.78
+Comission: 0.030606710000000002
+Profit: -0.1873867099999977
+Start Datetime: 2021-01-07 18:45:22(MDT)
+Finished Datetime: 07/01/2021 18:46:30(MDT)
+====================================================================
+
+====================================================================
+PNL for this order:
+clientOrderId: 1610070422397
+positionSide: LONG
+Level: 2
+entryPrice: 38471.27
+exitPrice: 38552.83
+originalSpend: 38.47127
+totalSold: 38.55283
+TakeProfitAmount: 38.55283
+      TakeProfitQuantity: 0.001
+     TakeProfitPrice: 38552.83
+StopLossAmount: 0.0
+       StopLossQuantity: 0.0
+      StopLossPrice: 0.0
+Comission: 0.023099059999999998
+Profit: 0.05846094000000319
+Start Datetime: 2021-01-07 18:47:02(MDT)
+Finished Datetime: 07/01/2021 18:47:15(MDT)
+====================================================================

@@ -1,0 +1,229 @@
+This error log was created at UTC: 1609806088.320668(2021-01-04 17:21:28).
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:30.088408
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:30.190172
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:30.356143
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:30.427038
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:30.529718
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:30.621624
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:30.719564
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:30.802576
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:30.836741
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:30.883664
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:30.902117
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:31.053057
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:31.163304
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:31.215776
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:31.297840
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:31.452755
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:31.543050
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:31.632559
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:31.743221
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:31.861850
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:31.913049
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:31.956439
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:32.046590
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:32.203891
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:32.274254
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:32.345109
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:32.407364
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:32.407662
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:32.490814
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: Unknown format code 'f' for object of type 'str' at 2021-01-04 17:21:32.595467
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: 'float' object is not subscriptable at 2021-01-04 17:21:32.730700
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: 'float' object is not subscriptable at 2021-01-04 17:21:32.779894
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: 'float' object is not subscriptable at 2021-01-04 17:21:32.841720
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: 'float' object is not subscriptable at 2021-01-04 17:21:32.890878
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: 'float' object is not subscriptable at 2021-01-04 17:21:33.002928
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: 'float' object is not subscriptable at 2021-01-04 17:21:33.145873
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: 'float' object is not subscriptable at 2021-01-04 17:21:33.229227
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: 'float' object is not subscriptable at 2021-01-04 17:21:33.328065
+====================================================================
+

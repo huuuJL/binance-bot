@@ -1,0 +1,7 @@
+This error log was created at UTC: 1609904400.999299(2021-01-05 20:40:00(MDT)).
+
+
+====================================================================
+An ERROR happend in position handler function: APIError(code=-1102): Mandatory parameter 'symbol' was not sent, was empty/null, or malformed. at 2021-01-05 20:48:20.972870
+====================================================================
+

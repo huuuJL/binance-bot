@@ -1,0 +1,11 @@
+This order log was created at UTC: 1609731141.846932(2021-01-03 20:32:21).
+
+
+User order:
+{'eventType': 'ORDER_TRADE_UPDATE', 'eventTime': 1609731717729, 'transactionTime': 1609731717724, 'symbol': 'BTCUSDT', 'clientOrderId': 'ios_NSNmUfjqLqS08ShCaI9I', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'origQty': 0.003, 'price': 30000.0, 'avgPrice': 0.0, 'stopPrice': 0.0, 'executionType': 'NEW', 'orderStatus': 'NEW', 'orderId': 11341948947, 'lastFilledQty': 0.0, 'cumulativeFilledQty': 0.0, 'lastFilledPrice': 0.0, 'commissionAsset': None, 'commissionAmount': None, 'orderTradeTime': 1609731717724, 'tradeID': 0, 'bidsNotional': 90.0, 'asksNotional': 0.0, 'isMarkerSide': False, 'isReduceOnly': False, 'workingType': 'CONTRACT_PRICE', 'isClosePosition': False, 'activationPrice': None, 'callbackRate': None, 'positionSide': 'LONG'}
+
+
+
+User order:
+{'eventType': 'ORDER_TRADE_UPDATE', 'eventTime': 1609731721714, 'transactionTime': 1609731721708, 'symbol': 'BTCUSDT', 'clientOrderId': 'ios_NSNmUfjqLqS08ShCaI9I', 'side': 'BUY', 'type': 'LIMIT', 'timeInForce': 'GTC', 'origQty': 0.003, 'price': 30000.0, 'avgPrice': 0.0, 'stopPrice': 0.0, 'executionType': 'CANCELED', 'orderStatus': 'CANCELED', 'orderId': 11341948947, 'lastFilledQty': 0.0, 'cumulativeFilledQty': 0.0, 'lastFilledPrice': 0.0, 'commissionAsset': None, 'commissionAmount': None, 'orderTradeTime': 1609731721708, 'tradeID': 0, 'bidsNotional': 0.0, 'asksNotional': 0.0, 'isMarkerSide': False, 'isReduceOnly': False, 'workingType': 'CONTRACT_PRICE', 'isClosePosition': False, 'activationPrice': None, 'callbackRate': None, 'positionSide': 'LONG'}
+

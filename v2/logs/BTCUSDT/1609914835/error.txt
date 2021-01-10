@@ -1,0 +1,7 @@
+This error log was created at UTC: 1609914835.991317(2021-01-05 23:33:55(MDT)).
+
+
+====================================================================
+An ERROR happend while handling an order: APIError(code=-2022): ReduceOnly Order is rejected. at 2021-01-05 23:34:01.519425
+====================================================================
+

@@ -1,0 +1,14 @@
+This profit log was created at UTC: 1609923366.379668(2021-01-06 01:56:06(MDT)).
+
+
+====================================================================
+PNL for this order:
+clientOrderId: 1609923371000SELL_short_TP
+positionSide: SHORT
+entryPrice: 34659.16
+exitPrice: 34641.99
+Comission: 0.02772045
+Profit: -0.010550449999992766
+Start Datetime: 2021-01-06 01:56:11(MDT)
+Finished Datetime: 06/01/2021 01:57:31(MDT)
+====================================================================

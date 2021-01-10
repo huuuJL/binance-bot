@@ -1,0 +1,13 @@
+This error log was created at UTC: 1609904996.711191(2021-01-05 20:49:56(MDT)).
+
+
+====================================================================
+An ERROR happend while monitoring services: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) at 2021-01-05 20:51:26.470049
+====================================================================
+
+
+
+====================================================================
+An ERROR happend in position handler function: APIError(code=-2011): Unknown order sent. at 2021-01-05 20:54:38.572236
+====================================================================
+

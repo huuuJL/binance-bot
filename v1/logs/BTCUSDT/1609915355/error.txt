@@ -1,0 +1,37 @@
+This error log was created at UTC: 1609915355.3830988(2021-01-05 23:42:35(MDT)).
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-2022): ReduceOnly Order is rejected. at 2021-01-05 23:42:41.471490
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-2022): ReduceOnly Order is rejected. at 2021-01-05 23:42:41.763571
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-2022): ReduceOnly Order is rejected. at 2021-01-05 23:42:42.048581
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-2022): ReduceOnly Order is rejected. at 2021-01-05 23:42:42.546863
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-2022): ReduceOnly Order is rejected. at 2021-01-05 23:42:42.837356
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-2022): ReduceOnly Order is rejected. at 2021-01-05 23:42:43.192309
+====================================================================
+

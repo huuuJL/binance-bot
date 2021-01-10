@@ -1,0 +1,7 @@
+This error log was created at UTC: 1609975066.287955(2021-01-06 16:17:46(MDT)).
+
+
+====================================================================
+An ERROR happend while getting historical data: ('ExecuteError', '[Executing] -1121: Invalid symbol.') at 2021-01-06 16:17:51.884608
+====================================================================
+

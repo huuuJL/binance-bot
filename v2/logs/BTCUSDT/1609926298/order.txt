@@ -1,0 +1,73 @@
+This order log was created at UTC: 1609926298.834354(2021-01-06 02:44:58(MDT)).
+
+
+User order:
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609926310808
+transactionTime: 1609926310802
+symbol: BTCUSDT
+clientOrderId: 1609926140000SELL_long_TP
+side: SELL
+type: TAKE_PROFIT
+timeInForce: GTC
+origQty: 34.143
+price: 34201.24
+avgPrice: 0.0
+stopPrice: 34201.24
+executionType: EXPIRED
+orderStatus: EXPIRED
+orderId: 11495137057
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609926310802
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: True
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: LONG
+
+
+
+User order:
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609926321862
+transactionTime: 1609926321856
+symbol: BTCUSDT
+clientOrderId: 1609926140000SELL_long_SM
+side: SELL
+type: STOP_MARKET
+timeInForce: GTC
+origQty: 0.0
+price: 0.0
+avgPrice: 0.0
+stopPrice: 34005.94
+executionType: CANCELED
+orderStatus: CANCELED
+orderId: 11495137246
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609926321856
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: True
+workingType: CONTRACT_PRICE
+isClosePosition: True
+activationPrice: None
+callbackRate: None
+positionSide: LONG
+

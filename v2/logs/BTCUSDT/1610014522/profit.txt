@@ -1,0 +1,21 @@
+This profit log was created at UTC: 1610014522.6264162(2021-01-07 03:15:22(MDT)).
+
+
+====================================================================
+PNL for this order:
+clientOrderId: 1610014691483
+positionSide: LONG
+entryPrice: 37375.0
+exitPrice: 37224.97
+originalSpend: 37.375
+TakeProfitAmount: 0.0
+      TakeProfitQuantity: 0.0
+     TakeProfitPrice: 0.0
+StopLossAmount: 37.22497
+       StopLossQuantity: 0.001
+      StopLossPrice: 37224.97
+Comission: 0.029839980000000002
+Profit: 0.120190020000001
+Start Datetime: 2021-01-07 03:18:11(MDT)
+Finished Datetime: 07/01/2021 03:19:12(MDT)
+====================================================================

@@ -1,0 +1,91 @@
+This error log was created at UTC: 1610184805.3630178(2021-01-09 09:33:25(UTC)).
+
+
+====================================================================
+An ERROR happend while monitoring services: ('Connection aborted.', OSError("(104, 'ECONNRESET')")) at 2021-01-09 09:46:11.830338
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: ('Connection aborted.', OSError("(104, 'ECONNRESET')")) at 2021-01-09 10:09:04.792487
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: ('Connection aborted.', OSError("(104, 'ECONNRESET')")) at 2021-01-09 10:25:54.735207
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: ('Connection aborted.', OSError("(104, 'ECONNRESET')")) at 2021-01-09 10:31:52.381970
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-09 10:33:25.966751
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-09 10:33:26.218465
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-09 10:33:26.247839
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-09 10:33:26.480739
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-09 10:33:26.507361
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-09 10:33:26.510358
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: ('Connection aborted.', OSError("(104, 'ECONNRESET')")) at 2021-01-09 10:36:33.895173
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: ('Connection aborted.', OSError("(104, 'ECONNRESET')")) at 2021-01-09 10:38:06.725530
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: ('Connection aborted.', OSError("(104, 'ECONNRESET')")) at 2021-01-09 10:42:53.893548
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: ('Connection aborted.', OSError("(104, 'ECONNRESET')")) at 2021-01-09 10:44:02.811446
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while getting historical data: HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/klines?symbol=BTCUSDT&interval=1m&limit=150 (Caused by SSLError(SSLError("bad handshake: SysCallError(104, 'ECONNRESET')"))) at 2021-01-09 10:50:00.239391
+====================================================================
+

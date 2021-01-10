@@ -1,0 +1,103 @@
+This error log was created at UTC: 1609832984.220146(2021-01-05 00:49:44).
+
+
+====================================================================
+An ERROR happend while analyzing market data: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all() at 2021-01-05 00:49:45.751036
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all() at 2021-01-05 00:49:45.870999
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all() at 2021-01-05 00:49:46.138779
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all() at 2021-01-05 00:49:46.371418
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all() at 2021-01-05 00:49:46.669268
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all() at 2021-01-05 00:49:46.932191
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all() at 2021-01-05 00:49:47.131802
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all() at 2021-01-05 00:49:47.414463
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all() at 2021-01-05 00:49:47.697757
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all() at 2021-01-05 00:49:47.866114
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all() at 2021-01-05 00:49:48.027471
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all() at 2021-01-05 00:49:48.175937
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all() at 2021-01-05 00:49:48.310346
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all() at 2021-01-05 00:49:48.487283
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all() at 2021-01-05 00:49:48.743571
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all() at 2021-01-05 00:49:48.778577
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all() at 2021-01-05 00:49:48.978761
+====================================================================
+

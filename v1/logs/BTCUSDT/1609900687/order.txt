@@ -1,0 +1,37 @@
+This order log was created at UTC: 1609900687.664948(2021-01-05 19:38:07(MDT)).
+
+
+User order:
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609900763056
+transactionTime: 1609900763052
+symbol: BTCUSDT
+clientOrderId: 1609898668000SELL_long_SS
+side: SELL
+type: STOP_MARKET
+timeInForce: GTC
+origQty: 0.0
+price: 0.0
+avgPrice: 0.0
+stopPrice: 33737.08
+executionType: CANCELED
+orderStatus: CANCELED
+orderId: 11473134464
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609900763052
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: True
+workingType: CONTRACT_PRICE
+isClosePosition: True
+activationPrice: None
+callbackRate: None
+positionSide: LONG
+

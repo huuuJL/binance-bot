@@ -1,0 +1,361 @@
+This order log was created at UTC: 1609925000.132577(2021-01-06 02:23:20(MDT)).
+
+
+Bot order: 06/01/2021 02:23:25(MDT)
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609925005210
+transactionTime: 1609925005205
+symbol: BTCUSDT
+clientOrderId: 1609925004000BUY_short
+side: SELL
+type: LIMIT
+timeInForce: GTC
+origQty: 0.001
+price: 33869.84
+avgPrice: 0.0
+stopPrice: 0.0
+executionType: NEW
+orderStatus: NEW
+orderId: 11494195726
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609925005205
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: False
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: SHORT
+
+
+
+Bot order: 06/01/2021 02:23:25(MDT)
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609925005210
+transactionTime: 1609925005205
+symbol: BTCUSDT
+clientOrderId: 1609925004000BUY_short
+side: SELL
+type: LIMIT
+timeInForce: GTC
+origQty: 0.001
+price: 33869.84
+avgPrice: 33880.0
+stopPrice: 0.0
+executionType: TRADE
+orderStatus: FILLED
+orderId: 11494195726
+lastFilledQty: 0.001
+cumulativeFilledQty: 0.001
+lastFilledPrice: 33880.0
+commissionAsset: USDT
+commissionAmount: 0.013552
+orderTradeTime: 1609925005205
+tradeID: 368805388
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: False
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: SHORT
+
+
+
+Bot order: 06/01/2021 02:23:25(MDT)
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609925005426
+transactionTime: 1609925005421
+symbol: BTCUSDT
+clientOrderId: 1609925005000BUY_short
+side: SELL
+type: LIMIT
+timeInForce: GTC
+origQty: 0.001
+price: 33869.85
+avgPrice: 0.0
+stopPrice: 0.0
+executionType: NEW
+orderStatus: NEW
+orderId: 11494195915
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609925005421
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: False
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: SHORT
+
+
+
+Bot order: 06/01/2021 02:23:25(MDT)
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609925005426
+transactionTime: 1609925005421
+symbol: BTCUSDT
+clientOrderId: 1609925005000BUY_short
+side: SELL
+type: LIMIT
+timeInForce: GTC
+origQty: 0.001
+price: 33869.85
+avgPrice: 33880.08
+stopPrice: 0.0
+executionType: TRADE
+orderStatus: FILLED
+orderId: 11494195915
+lastFilledQty: 0.001
+cumulativeFilledQty: 0.001
+lastFilledPrice: 33880.08
+commissionAsset: USDT
+commissionAmount: 0.01355203
+orderTradeTime: 1609925005421
+tradeID: 368805394
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: False
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: SHORT
+
+
+
+Bot order: 06/01/2021 02:23:26(MDT)
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609925005570
+transactionTime: 1609925005565
+symbol: BTCUSDT
+clientOrderId: 1609925004000SELL_short_TP
+side: BUY
+type: TAKE_PROFIT
+timeInForce: GTC
+origQty: 33.88
+price: 33862.38
+avgPrice: 0.0
+stopPrice: 33862.38
+executionType: NEW
+orderStatus: NEW
+orderId: 11494196072
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609925005565
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: True
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: SHORT
+
+
+
+Bot order: 06/01/2021 02:23:26(MDT)
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609925005722
+transactionTime: 1609925005717
+symbol: BTCUSDT
+clientOrderId: 1609925004000SELL_short_SM
+side: BUY
+type: STOP_MARKET
+timeInForce: GTC
+origQty: 0.0
+price: 0.0
+avgPrice: 0.0
+stopPrice: 34015.52
+executionType: NEW
+orderStatus: NEW
+orderId: 11494196237
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609925005717
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: True
+workingType: CONTRACT_PRICE
+isClosePosition: True
+activationPrice: None
+callbackRate: None
+positionSide: SHORT
+
+
+
+Bot order: 06/01/2021 02:23:26(MDT)
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609925006214
+transactionTime: 1609925006209
+symbol: BTCUSDT
+clientOrderId: 1609925005000SELL_short_TP
+side: BUY
+type: TAKE_PROFIT
+timeInForce: GTC
+origQty: 33.88
+price: 33862.46
+avgPrice: 0.0
+stopPrice: 33862.46
+executionType: NEW
+orderStatus: NEW
+orderId: 11494196731
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609925006209
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: True
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: SHORT
+
+
+
+Bot order: 06/01/2021 02:23:26(MDT)
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609925006431
+transactionTime: 1609925006426
+symbol: BTCUSDT
+clientOrderId: 1609925005000SELL_short_SM
+side: BUY
+type: STOP_MARKET
+timeInForce: GTC
+origQty: 0.0
+price: 0.0
+avgPrice: 0.0
+stopPrice: 34015.6
+executionType: NEW
+orderStatus: NEW
+orderId: 11494196907
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609925006426
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: True
+workingType: CONTRACT_PRICE
+isClosePosition: True
+activationPrice: None
+callbackRate: None
+positionSide: SHORT
+
+
+
+User order:
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609925022432
+transactionTime: 1609925022427
+symbol: BTCUSDT
+clientOrderId: web_GslCOfRr5ScrF7ku6ZaC
+side: BUY
+type: MARKET
+timeInForce: GTC
+origQty: 0.002
+price: 0.0
+avgPrice: 0.0
+stopPrice: 0.0
+executionType: NEW
+orderStatus: NEW
+orderId: 11494212669
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609925022427
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: True
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: SHORT
+
+
+
+User order:
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609925022432
+transactionTime: 1609925022427
+symbol: BTCUSDT
+clientOrderId: web_GslCOfRr5ScrF7ku6ZaC
+side: BUY
+type: MARKET
+timeInForce: GTC
+origQty: 0.002
+price: 0.0
+avgPrice: 33905.01
+stopPrice: 0.0
+executionType: TRADE
+orderStatus: FILLED
+orderId: 11494212669
+lastFilledQty: 0.002
+cumulativeFilledQty: 0.002
+lastFilledPrice: 33905.01
+commissionAsset: USDT
+commissionAmount: 0.027124
+orderTradeTime: 1609925022427
+tradeID: 368805952
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: True
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: SHORT
+

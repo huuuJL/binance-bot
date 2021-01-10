@@ -1,0 +1,79 @@
+This error log was created at UTC: 1609744490.154314(2021-01-04 00:14:50).
+
+
+====================================================================
+An ERROR happend while getting historical data: list index out of range at 2021-01-04 00:32:13.918331
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while getting historical data: list index out of range at 2021-01-04 00:34:13.236686
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while getting historical data: Expecting value: line 1 column 1 (char 0) at 2021-01-04 00:38:00.609105
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-04 01:14:51.341225
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-04 01:14:52.039812
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while getting historical data: Expecting value: line 1 column 1 (char 0) at 2021-01-04 02:38:01.602911
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while getting historical data: Expecting value: line 1 column 1 (char 0) at 2021-01-04 02:48:00.568160
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while getting historical data: Expecting value: line 1 column 1 (char 0) at 2021-01-04 02:53:00.687904
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while getting historical data: Expecting value: line 1 column 1 (char 0) at 2021-01-04 02:56:00.879212
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while getting historical data: Expecting value: line 1 column 1 (char 0) at 2021-01-04 02:57:00.678455
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while getting historical data: Expecting value: line 1 column 1 (char 0) at 2021-01-04 02:59:00.677743
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while getting historical data: Expecting value: line 1 column 1 (char 0) at 2021-01-04 03:03:00.576384
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while getting historical data: Expecting value: line 1 column 1 (char 0) at 2021-01-04 03:09:00.685727
+====================================================================
+

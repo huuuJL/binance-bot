@@ -1,0 +1,289 @@
+This error log was created at UTC: 1610183146.158388(2021-01-09 02:05:46(MDT)).
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:09:58.094954
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:11:55.081105
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:12:22.244796
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:12:34.514881
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:12:41.594863
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:17:43.730768
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:17:49.933464
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:19:01.840369
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:19:02.101249
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:19:07.384620
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:19:26.979257
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:21:05.172624
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:21:17.223901
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:21:23.465541
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:24:32.086200
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:24:37.478381
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:24:51.264705
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:25:10.852299
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:25:11.122627
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request is outside of the recvWindow.) at 2021-01-09 02:25:23.018927
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:26:16.670882
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:26:29.858104
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:26:30.218789
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request is outside of the recvWindow.) at 2021-01-09 02:26:48.512417
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:27:09.014640
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request is outside of the recvWindow.) at 2021-01-09 02:28:01.039705
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:28:07.164797
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:28:13.514217
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:28:19.674971
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:28:26.043140
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:28:46.747234
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:28:52.026443
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:29:38.834064
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:29:51.739287
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:29:58.782752
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:30:38.755463
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:30:58.122674
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:30:58.488290
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:31:04.683091
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:31:10.073673
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:31:37.671422
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:31:50.854959
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:32:00.417025
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_SM ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:32:13.261224
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:32:18.554462
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while cancelling the order: 1610183264686BUY_SHORT_SM, ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:32:45.641100
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while cancelling the order: 1610183264686BUY_SHORT_SM, ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:32:47.094380
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610183264686BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.) at 2021-01-09 02:32:55.933914
+====================================================================
+

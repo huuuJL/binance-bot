@@ -1,0 +1,85 @@
+This error log was created at UTC: 1609862058.2768462(2021-01-05 08:54:18(MDT)).
+
+
+====================================================================
+An ERROR happend while analyzing market data: '>=' not supported between instances of 'str' and 'int' at 2021-01-05 08:54:20.290013
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: '>=' not supported between instances of 'str' and 'int' at 2021-01-05 08:54:20.477888
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: '>=' not supported between instances of 'str' and 'int' at 2021-01-05 08:54:20.645160
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: '>=' not supported between instances of 'str' and 'int' at 2021-01-05 08:54:20.777515
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: '>=' not supported between instances of 'str' and 'int' at 2021-01-05 08:54:20.992181
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: '>=' not supported between instances of 'str' and 'int' at 2021-01-05 08:54:21.353605
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: '>=' not supported between instances of 'str' and 'int' at 2021-01-05 08:54:21.523536
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: '>=' not supported between instances of 'str' and 'int' at 2021-01-05 08:54:21.715997
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: '>=' not supported between instances of 'str' and 'int' at 2021-01-05 08:54:21.891390
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: '>=' not supported between instances of 'str' and 'int' at 2021-01-05 08:54:22.028801
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: '>=' not supported between instances of 'str' and 'int' at 2021-01-05 08:54:22.228158
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: '>=' not supported between instances of 'str' and 'int' at 2021-01-05 08:54:22.405979
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: '>=' not supported between instances of 'str' and 'int' at 2021-01-05 08:54:22.603785
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while analyzing market data: '>=' not supported between instances of 'str' and 'int' at 2021-01-05 08:54:22.877632
+====================================================================
+

@@ -1,0 +1,7 @@
+This error log was created at UTC: 1609911774.074191(2021-01-05 22:42:54(MDT)).
+
+
+====================================================================
+Candlestick subscription error: SubscriptionErrorUnexpected error: [Errno 8] nodename nor servname provided, or not known at 2021-01-05 22:42:56.587002
+====================================================================
+

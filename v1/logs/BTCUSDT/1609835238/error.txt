@@ -1,0 +1,43 @@
+This error log was created at UTC: 1609835238.695531(2021-01-05 01:27:18).
+
+
+====================================================================
+An ERROR happend while monitoring services: HTTPSConnectionPool(host='api.binance.com', port=443): Read timed out. (read timeout=10) at 2021-01-05 02:25:55.363728
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: HTTPSConnectionPool(host='api.binance.com', port=443): Read timed out. (read timeout=10) at 2021-01-05 02:26:06.005008
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: HTTPSConnectionPool(host='api.binance.com', port=443): Read timed out. (read timeout=10) at 2021-01-05 02:26:18.671438
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-05 02:27:19.519778
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-05 02:27:19.635724
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-05 02:27:20.098672
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-05 02:27:20.254576
+====================================================================
+

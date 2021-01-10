@@ -1,0 +1,19 @@
+This error log was created at UTC: 1609870492.933249(2021-01-05 11:14:52(MDT)).
+
+
+====================================================================
+An ERROR happend while getting historical data: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) at 2021-01-05 11:41:00.287549
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-05 12:14:53.601061
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-05 12:14:54.016624
+====================================================================
+
