@@ -34,5 +34,10 @@ This trading bot was built with the Binance official Binance Python SDK.
 2. Adjust the Config data based on your kowledge and risk control.
 
 
+# Run
+
+## python3 start_trading.py
+
+
 ## License
 MIT
