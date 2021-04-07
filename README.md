@@ -4,53 +4,35 @@ This trading bot was built with the Binance official Binance Python SDK.
 
 
 # Features & functionality
-1. Real time price tracing and indicators calculation.
-2. Automatically make future orders based on the value of indicators.
-3. 
+1. Real-time cryypto price trackng and indicators calculation.
+2. Automatically make future limit orders based on the value of indicators.
+    - Indicators include: MACD, EMA, RSI, EMV
+3. Automatically monitor if a limit order is successfully made.
+4. Automatically execute STOP LOSS and TAKE PROFIT according to the program configs.
 
 
 
 
+# Beginning
 
-# Binance Futures Python SDK
-
-This is Binance Futures Ptyhon SDK, a lightweight python library. You can import to your ptyhon project and use this SDK to query all market data, trading and manage your account.
-
-The SDK supports both synchronous RESTful API invoking  and subscribing the market data and the user's private data from the websocket connection.
-
-## Update log
->1.1.0
->Add binance_d for delivery futures
-
-## Table of Contents
-
-- [Beginning](#Beginning)
-  - [Installation](#Installation)
-
-## Beginning
-
-### Installation
-
-*The SDK is compiled by Python 3.7 and above*
-
-For Beta version, please import the source code directly.
-
-```Python
-import binance_f  # For perpetual swap
-```
-
-```Python
-import binance_d  # For delivery futures
-```
-
-The example code is in python3/example.
+## Make sure you have the follwoing packages installed on your machine:
+1. APScheduler==3.6.3
+2. binance-futures==1.1.0
+3. certifi==2020.4.5.2
+4. chardet==3.0.4
+5. idna==2.9
+6. pytz==2020.1
+7. requests==2.23.0
+8. six==1.15.0
+9. tzlocal==2.1
+10. urllib3==1.25.9
+11. websocket-client==0.57.0
 
 
-To install by source code, run below command
+## Configs:
+1. Replace your own Binance API credential in "start_trading.py"
+2. Adjust the Config data based on your kowledge and risk control.
 
-```python
-python3 setup.py install
-```
 
 ## License
 MIT
