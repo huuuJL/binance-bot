@@ -1,0 +1,289 @@
+This order log was created at UTC: 1609844960.631097(2021-01-05 04:09:20(MDT)).
+
+
+User order:
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609845030954
+transactionTime: 1609845030949
+symbol: BTCUSDT
+clientOrderId: web_8XgcRtCAK2CrXHQPKbVq
+side: BUY
+type: MARKET
+timeInForce: GTC
+origQty: 0.002
+price: 0.0
+avgPrice: 0.0
+stopPrice: 0.0
+executionType: NEW
+orderStatus: NEW
+orderId: 11433053186
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609845030949
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: False
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: LONG
+
+
+
+User order:
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609845030954
+transactionTime: 1609845030949
+symbol: BTCUSDT
+clientOrderId: web_8XgcRtCAK2CrXHQPKbVq
+side: BUY
+type: MARKET
+timeInForce: GTC
+origQty: 0.002
+price: 0.0
+avgPrice: 31430.01
+stopPrice: 0.0
+executionType: TRADE
+orderStatus: FILLED
+orderId: 11433053186
+lastFilledQty: 0.002
+cumulativeFilledQty: 0.002
+lastFilledPrice: 31430.01
+commissionAsset: USDT
+commissionAmount: 0.025144
+orderTradeTime: 1609845030949
+tradeID: 365840380
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: False
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: LONG
+
+
+
+User order:
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609845133697
+transactionTime: 1609845133691
+symbol: BTCUSDT
+clientOrderId: web_c1KZzLsxbYUHoitfoFuL
+side: SELL
+type: MARKET
+timeInForce: GTC
+origQty: 0.002
+price: 0.0
+avgPrice: 0.0
+stopPrice: 0.0
+executionType: NEW
+orderStatus: NEW
+orderId: 11433123930
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609845133691
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: True
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: LONG
+
+
+
+User order:
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609845133697
+transactionTime: 1609845133691
+symbol: BTCUSDT
+clientOrderId: web_c1KZzLsxbYUHoitfoFuL
+side: SELL
+type: MARKET
+timeInForce: GTC
+origQty: 0.002
+price: 0.0
+avgPrice: 31527.1
+stopPrice: 0.0
+executionType: TRADE
+orderStatus: FILLED
+orderId: 11433123930
+lastFilledQty: 0.002
+cumulativeFilledQty: 0.002
+lastFilledPrice: 31527.1
+commissionAsset: USDT
+commissionAmount: 0.02522168
+orderTradeTime: 1609845133691
+tradeID: 365843463
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: True
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: LONG
+
+
+
+User order:
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609847352282
+transactionTime: 1609847352276
+symbol: BTCUSDT
+clientOrderId: web_ZUu2s2KLzSEyg8ySjQix
+side: BUY
+type: LIMIT
+timeInForce: IOC
+origQty: 0.007
+price: 31357.16
+avgPrice: 0.0
+stopPrice: 0.0
+executionType: NEW
+orderStatus: NEW
+orderId: 11434567514
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609847352276
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: False
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: BOTH
+
+
+
+User order:
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609847352282
+transactionTime: 1609847352276
+symbol: BTCUSDT
+clientOrderId: web_ZUu2s2KLzSEyg8ySjQix
+side: BUY
+type: LIMIT
+timeInForce: IOC
+origQty: 0.007
+price: 31357.16
+avgPrice: 0.0
+stopPrice: 0.0
+executionType: EXPIRED
+orderStatus: EXPIRED
+orderId: 11434567514
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609847352276
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: False
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: BOTH
+
+
+
+User order:
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609847757603
+transactionTime: 1609847757598
+symbol: BTCUSDT
+clientOrderId: web_CUGcu5UmkmcWCENKJmmn
+side: BUY
+type: LIMIT
+timeInForce: IOC
+origQty: 0.001
+price: 31357.16
+avgPrice: 0.0
+stopPrice: 0.0
+executionType: NEW
+orderStatus: NEW
+orderId: 11434843428
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609847757598
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: False
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: BOTH
+
+
+
+User order:
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609847757603
+transactionTime: 1609847757598
+symbol: BTCUSDT
+clientOrderId: web_CUGcu5UmkmcWCENKJmmn
+side: BUY
+type: LIMIT
+timeInForce: IOC
+origQty: 0.001
+price: 31357.16
+avgPrice: 0.0
+stopPrice: 0.0
+executionType: EXPIRED
+orderStatus: EXPIRED
+orderId: 11434843428
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609847757598
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 0.0
+isMarkerSide: False
+isReduceOnly: False
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: BOTH
+

@@ -1,0 +1,277 @@
+This position log was created at UTC: 1609844960.631097(2021-01-05 04:09:20(MDT)).
+
+
+Position updated: 05/01/2021 04:10:31(MDT)
+====================================================================
+eventType: ACCOUNT_UPDATE
+eventTime: 1609845030954
+transactionTime: 1609845030949
+balances: [<binance_f.model.accountupdate.Balance object at 0x114d03a60>]
+positions: [<binance_f.model.accountupdate.Position object at 0x114d03b50>, <binance_f.model.accountupdate.Position object at 0x114d033a0>, <binance_f.model.accountupdate.Position object at 0x114d03250>]
+
+
+
+Position updated: 05/01/2021 04:10:31(MDT)
+====================================================================
+symbol: BTCUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: -503.38848999
+unrealizedPnl: 0.0
+marginType: isolated
+isolatedWallet: 0.0
+positionSide: BOTH
+
+
+
+Position updated: 05/01/2021 04:10:31(MDT)
+====================================================================
+eventType: ACCOUNT_UPDATE
+eventTime: 1609845030954
+transactionTime: 1609845030949
+balances: [<binance_f.model.accountupdate.Balance object at 0x114d03a60>]
+positions: [<binance_f.model.accountupdate.Position object at 0x114d03b50>, <binance_f.model.accountupdate.Position object at 0x114d033a0>, <binance_f.model.accountupdate.Position object at 0x114d03250>]
+
+
+
+Position updated: 05/01/2021 04:10:31(MDT)
+====================================================================
+symbol: BTCUSDT
+amount: 0.002
+entryPrice: 31430.01
+preFee: 0.08177
+unrealizedPnl: 0.00824
+marginType: isolated
+isolatedWallet: 12.57003999
+positionSide: LONG
+
+
+
+Position updated: 05/01/2021 04:10:31(MDT)
+====================================================================
+eventType: ACCOUNT_UPDATE
+eventTime: 1609845030954
+transactionTime: 1609845030949
+balances: [<binance_f.model.accountupdate.Balance object at 0x114d03a60>]
+positions: [<binance_f.model.accountupdate.Position object at 0x114d03b50>, <binance_f.model.accountupdate.Position object at 0x114d033a0>, <binance_f.model.accountupdate.Position object at 0x114d03250>]
+
+
+
+Position updated: 05/01/2021 04:10:31(MDT)
+====================================================================
+symbol: BTCUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: 0.08828
+unrealizedPnl: 0.0
+marginType: isolated
+isolatedWallet: 0.0
+positionSide: SHORT
+
+
+
+Position updated: 05/01/2021 04:12:13(MDT)
+====================================================================
+eventType: ACCOUNT_UPDATE
+eventTime: 1609845133697
+transactionTime: 1609845133691
+balances: [<binance_f.model.accountupdate.Balance object at 0x114d9ea30>]
+positions: [<binance_f.model.accountupdate.Position object at 0x114d9e220>, <binance_f.model.accountupdate.Position object at 0x114d9e130>, <binance_f.model.accountupdate.Position object at 0x114d9e970>]
+
+
+
+Position updated: 05/01/2021 04:12:13(MDT)
+====================================================================
+symbol: BTCUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: -503.38848999
+unrealizedPnl: 0.0
+marginType: isolated
+isolatedWallet: 0.0
+positionSide: BOTH
+
+
+
+Position updated: 05/01/2021 04:12:13(MDT)
+====================================================================
+eventType: ACCOUNT_UPDATE
+eventTime: 1609845133697
+transactionTime: 1609845133691
+balances: [<binance_f.model.accountupdate.Balance object at 0x114d9ea30>]
+positions: [<binance_f.model.accountupdate.Position object at 0x114d9e220>, <binance_f.model.accountupdate.Position object at 0x114d9e130>, <binance_f.model.accountupdate.Position object at 0x114d9e970>]
+
+
+
+Position updated: 05/01/2021 04:12:13(MDT)
+====================================================================
+symbol: BTCUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: 0.27595
+unrealizedPnl: 0.0
+marginType: isolated
+isolatedWallet: 0.0
+positionSide: LONG
+
+
+
+Position updated: 05/01/2021 04:12:14(MDT)
+====================================================================
+eventType: ACCOUNT_UPDATE
+eventTime: 1609845133697
+transactionTime: 1609845133691
+balances: [<binance_f.model.accountupdate.Balance object at 0x114d9ea30>]
+positions: [<binance_f.model.accountupdate.Position object at 0x114d9e220>, <binance_f.model.accountupdate.Position object at 0x114d9e130>, <binance_f.model.accountupdate.Position object at 0x114d9e970>]
+
+
+
+Position updated: 05/01/2021 04:12:14(MDT)
+====================================================================
+symbol: BTCUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: 0.08828
+unrealizedPnl: 0.0
+marginType: isolated
+isolatedWallet: 0.0
+positionSide: SHORT
+
+
+
+Position updated: 05/01/2021 04:48:51(MDT)
+====================================================================
+eventType: ACCOUNT_UPDATE
+eventTime: 1609847331668
+transactionTime: 1609847331663
+balances: [<binance_f.model.accountupdate.Balance object at 0x114de2d60>]
+positions: [<binance_f.model.accountupdate.Position object at 0x114de25e0>, <binance_f.model.accountupdate.Position object at 0x114de2d30>, <binance_f.model.accountupdate.Position object at 0x114e05b80>]
+
+
+
+Position updated: 05/01/2021 04:48:51(MDT)
+====================================================================
+symbol: BTCUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: -503.38848999
+unrealizedPnl: 0.0
+marginType: cross
+isolatedWallet: 0.0
+positionSide: BOTH
+
+
+
+Position updated: 05/01/2021 04:48:51(MDT)
+====================================================================
+eventType: ACCOUNT_UPDATE
+eventTime: 1609847331668
+transactionTime: 1609847331663
+balances: [<binance_f.model.accountupdate.Balance object at 0x114de2d60>]
+positions: [<binance_f.model.accountupdate.Position object at 0x114de25e0>, <binance_f.model.accountupdate.Position object at 0x114de2d30>, <binance_f.model.accountupdate.Position object at 0x114e05b80>]
+
+
+
+Position updated: 05/01/2021 04:48:51(MDT)
+====================================================================
+symbol: BTCUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: 0.27595
+unrealizedPnl: 0.0
+marginType: cross
+isolatedWallet: 0.0
+positionSide: LONG
+
+
+
+Position updated: 05/01/2021 04:48:51(MDT)
+====================================================================
+eventType: ACCOUNT_UPDATE
+eventTime: 1609847331668
+transactionTime: 1609847331663
+balances: [<binance_f.model.accountupdate.Balance object at 0x114de2d60>]
+positions: [<binance_f.model.accountupdate.Position object at 0x114de25e0>, <binance_f.model.accountupdate.Position object at 0x114de2d30>, <binance_f.model.accountupdate.Position object at 0x114e05b80>]
+
+
+
+Position updated: 05/01/2021 04:48:52(MDT)
+====================================================================
+symbol: BTCUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: 0.08828
+unrealizedPnl: 0.0
+marginType: cross
+isolatedWallet: 0.0
+positionSide: SHORT
+
+
+
+Position updated: 05/01/2021 04:49:00(MDT)
+====================================================================
+eventType: ACCOUNT_UPDATE
+eventTime: 1609847340609
+transactionTime: 1609847340603
+balances: [<binance_f.model.accountupdate.Balance object at 0x114e05c40>]
+positions: [<binance_f.model.accountupdate.Position object at 0x114e05400>, <binance_f.model.accountupdate.Position object at 0x114e054c0>, <binance_f.model.accountupdate.Position object at 0x114e058b0>]
+
+
+
+Position updated: 05/01/2021 04:49:00(MDT)
+====================================================================
+symbol: BTCUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: -503.38848999
+unrealizedPnl: 0.0
+marginType: isolated
+isolatedWallet: 0.0
+positionSide: BOTH
+
+
+
+Position updated: 05/01/2021 04:49:00(MDT)
+====================================================================
+eventType: ACCOUNT_UPDATE
+eventTime: 1609847340609
+transactionTime: 1609847340603
+balances: [<binance_f.model.accountupdate.Balance object at 0x114e05c40>]
+positions: [<binance_f.model.accountupdate.Position object at 0x114e05400>, <binance_f.model.accountupdate.Position object at 0x114e054c0>, <binance_f.model.accountupdate.Position object at 0x114e058b0>]
+
+
+
+Position updated: 05/01/2021 04:49:00(MDT)
+====================================================================
+symbol: BTCUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: 0.27595
+unrealizedPnl: 0.0
+marginType: isolated
+isolatedWallet: 0.0
+positionSide: LONG
+
+
+
+Position updated: 05/01/2021 04:49:00(MDT)
+====================================================================
+eventType: ACCOUNT_UPDATE
+eventTime: 1609847340609
+transactionTime: 1609847340603
+balances: [<binance_f.model.accountupdate.Balance object at 0x114e05c40>]
+positions: [<binance_f.model.accountupdate.Position object at 0x114e05400>, <binance_f.model.accountupdate.Position object at 0x114e054c0>, <binance_f.model.accountupdate.Position object at 0x114e058b0>]
+
+
+
+Position updated: 05/01/2021 04:49:01(MDT)
+====================================================================
+symbol: BTCUSDT
+amount: 0.0
+entryPrice: 0.0
+preFee: 0.08828
+unrealizedPnl: 0.0
+marginType: isolated
+isolatedWallet: 0.0
+positionSide: SHORT
+

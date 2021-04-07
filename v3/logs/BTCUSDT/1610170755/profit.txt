@@ -1,0 +1,44 @@
+This profit log was created at UTC: 1610170755.780076(2021-01-08 22:39:15(MDT)).
+
+
+====================================================================
+PNL for this order:
+clientOrderId: 1610172782390
+positionSide: LONG
+Level: 1
+entryPrice: 39622.02
+exitPrice: 39380.68
+originalSpend: 39.62202
+totalSold: 39.38068
+TakeProfitAmount: 0.0
+      TakeProfitQuantity: 0.0
+     TakeProfitPrice: 0.0
+StopLossAmount: 39.38068
+       StopLossQuantity: 0.001
+      StopLossPrice: 39380.68
+Comission: 0.031601078
+Profit: -0.272941078000001
+Start Datetime: 2021-01-08 23:13:02(MDT)
+Finished Datetime: 08/01/2021 23:17:01(MDT)
+====================================================================
+
+====================================================================
+PNL for this order:
+clientOrderId: 1610174281889
+positionSide: LONG
+Level: 1
+entryPrice: 39369.49
+exitPrice: 39133.0
+originalSpend: 39.36949
+totalSold: 39.133
+TakeProfitAmount: 0.0
+      TakeProfitQuantity: 0.0
+     TakeProfitPrice: 0.0
+StopLossAmount: 39.133
+       StopLossQuantity: 0.001
+      StopLossPrice: 39133.0
+Comission: 0.031400990000000004
+Profit: -0.26789098999999633
+Start Datetime: 2021-01-08 23:38:01(MDT)
+Finished Datetime: 08/01/2021 23:42:28(MDT)
+====================================================================

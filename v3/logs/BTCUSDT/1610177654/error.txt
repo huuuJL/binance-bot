@@ -1,0 +1,55 @@
+This error log was created at UTC: 1610177654.671902(2021-01-09 00:34:14(MDT)).
+
+
+====================================================================
+An ERROR happend while handling an order: '1610179049500' at 2021-01-09 01:00:05.273566
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610179373537BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request is outside of the recvWindow.) at 2021-01-09 01:04:15.424282
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-09 01:34:15.923564
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-09 01:34:17.080092
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610181159353SELL_LONG_TP ERROR(APIError(code=-1021): Timestamp for this request is outside of the recvWindow.) at 2021-01-09 01:36:28.706383
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610181159353SELL_LONG_TP ERROR(APIError(code=-1021): Timestamp for this request is outside of the recvWindow.) at 2021-01-09 01:45:12.851895
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610181159353SELL_LONG_TP ERROR(APIError(code=-1021): Timestamp for this request is outside of the recvWindow.) at 2021-01-09 01:49:36.995490
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610181159353SELL_LONG_TP ERROR(APIError(code=-1021): Timestamp for this request is outside of the recvWindow.) at 2021-01-09 01:51:04.706349
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610181159353SELL_LONG_TP ERROR(APIError(code=-1021): Timestamp for this request is outside of the recvWindow.) at 2021-01-09 01:54:21.228185
+====================================================================
+

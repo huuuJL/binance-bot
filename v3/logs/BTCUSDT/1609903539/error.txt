@@ -1,0 +1,7 @@
+This error log was created at UTC: 1609903539.173617(2021-01-05 20:25:39(MDT)).
+
+
+====================================================================
+An ERROR happend in position handler function: local variable 'clientOrderID_not_filled' referenced before assignment at 2021-01-05 20:37:10.661875
+====================================================================
+

@@ -1,0 +1,157 @@
+This error log was created at UTC: 1610157069.9473732(2021-01-08 18:51:09(MDT)).
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_TP ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:54:49.660678
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_SM ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:54:50.384632
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_TP ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:54:52.834875
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_SM ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:54:53.267384
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_TP ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:54:55.700356
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_SM ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:54:56.137473
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_TP ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:54:58.603252
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_SM ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:54:58.998733
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_TP ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:55:01.424411
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_SM ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:55:02.119756
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_TP ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:55:04.553395
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_SM ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:55:04.929981
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_TP ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:55:08.198446
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_SM ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:55:09.136241
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_TP ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:55:11.881134
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_SM ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:55:12.344003
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_TP ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:55:15.071192
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_SM ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:55:15.862770
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_TP ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:55:18.268647
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_SM ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:55:18.736982
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_TP ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:55:21.236914
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_SM ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:55:21.916727
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_TP ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:55:24.731970
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_SM ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:55:25.179083
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_TP ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:55:27.583352
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610157228001SELL_LONG_SM ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 18:55:28.062323
+====================================================================
+

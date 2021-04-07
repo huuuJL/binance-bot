@@ -1,0 +1,91 @@
+This error log was created at UTC: 1609807247.840102(2021-01-04 17:40:47).
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-04 18:40:48.904798
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-04 18:40:49.628584
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorUnexpected error: [Errno 8] nodename nor servname provided, or not known at 2021-01-04 20:47:26.651678
+====================================================================
+
+
+
+====================================================================
+Candlestick subscription error: SubscriptionErrorUnexpected error: [Errno 8] nodename nor servname provided, or not known at 2021-01-04 20:47:28.764575
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorUnexpected error: [Errno 8] nodename nor servname provided, or not known at 2021-01-04 20:47:28.779012
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorUnexpected error: [Errno 8] nodename nor servname provided, or not known at 2021-01-04 20:47:29.420509
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorUnexpected error: [Errno 8] nodename nor servname provided, or not known at 2021-01-04 20:47:30.472925
+====================================================================
+
+
+
+====================================================================
+Candlestick subscription error: SubscriptionErrorUnexpected error: [Errno 8] nodename nor servname provided, or not known at 2021-01-04 20:47:31.409731
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while monitoring services: HTTPSConnectionPool(host='api.binance.com', port=443): Read timed out. (read timeout=10) at 2021-01-04 20:47:34.802117
+====================================================================
+
+
+
+====================================================================
+Candlestick subscription error: SubscriptionErrorUnexpected error: 'NoneType' object has no attribute 'is_ssl' at 2021-01-04 20:47:36.684208
+====================================================================
+
+
+
+====================================================================
+Candlestick subscription error: SubscriptionErrorUnexpected error: 'NoneType' object has no attribute 'is_ssl' at 2021-01-04 20:48:02.490569
+====================================================================
+
+
+
+====================================================================
+Candlestick subscription error: SubscriptionErrorUnexpected error: 'NoneType' object has no attribute 'is_ssl' at 2021-01-04 20:48:05.441915
+====================================================================
+
+
+
+====================================================================
+Candlestick subscription error: SubscriptionErrorUnexpected error: 'NoneType' object has no attribute 'sock' at 2021-01-04 20:48:08.590630
+====================================================================
+
+
+
+====================================================================
+Candlestick subscription error: SubscriptionErrorUnexpected error: 'NoneType' object has no attribute 'is_ssl' at 2021-01-04 20:48:11.807500
+====================================================================
+
+
+
+====================================================================
+Candlestick subscription error: SubscriptionErrorUnexpected error: 'NoneType' object has no attribute 'is_ssl' at 2021-01-04 20:48:36.842652
+====================================================================
+

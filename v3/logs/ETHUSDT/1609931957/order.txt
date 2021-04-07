@@ -1,0 +1,181 @@
+This order log was created at UTC: 1609931957.648834(2021-01-06 04:19:17(MDT)).
+
+
+Bot order: 06/01/2021 04:19:23(MDT)
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609931963363
+transactionTime: 1609931963358
+symbol: ETHUSDT
+clientOrderId: 1609931962000BUY_short
+side: SELL
+type: LIMIT
+timeInForce: GTC
+origQty: 0.043
+price: 1290.37
+avgPrice: 0.0
+stopPrice: 0.0
+executionType: NEW
+orderStatus: NEW
+orderId: 8389765490551130815
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609931963358
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 110.01636
+isMarkerSide: False
+isReduceOnly: False
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: SHORT
+
+
+
+User order:
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609931964297
+transactionTime: 1609931964292
+symbol: ETHUSDT
+clientOrderId: 1609931962000BUY_short
+side: SELL
+type: LIMIT
+timeInForce: GTC
+origQty: 0.043
+price: 1290.37
+avgPrice: 0.0
+stopPrice: 0.0
+executionType: CANCELED
+orderStatus: CANCELED
+orderId: 8389765490551130815
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609931964292
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 54.53045
+isMarkerSide: False
+isReduceOnly: False
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: SHORT
+
+
+
+Bot order: 06/01/2021 04:19:24(MDT)
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609931964851
+transactionTime: 1609931964845
+symbol: ETHUSDT
+clientOrderId: 1609931964000BUY_short
+side: SELL
+type: LIMIT
+timeInForce: GTC
+origQty: 0.043
+price: 1289.66
+avgPrice: 0.0
+stopPrice: 0.0
+executionType: NEW
+orderStatus: NEW
+orderId: 8389765490551132732
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609931964845
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 109.98583
+isMarkerSide: False
+isReduceOnly: False
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: SHORT
+
+
+
+User order:
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609931966267
+transactionTime: 1609931966261
+symbol: ETHUSDT
+clientOrderId: 1609931964000BUY_short
+side: SELL
+type: LIMIT
+timeInForce: GTC
+origQty: 0.043
+price: 1289.66
+avgPrice: 0.0
+stopPrice: 0.0
+executionType: CANCELED
+orderStatus: CANCELED
+orderId: 8389765490551132732
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609931966261
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 54.53045
+isMarkerSide: False
+isReduceOnly: False
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: SHORT
+
+
+
+Bot order: 06/01/2021 04:19:26(MDT)
+====================================================================
+eventType: ORDER_TRADE_UPDATE
+eventTime: 1609931966469
+transactionTime: 1609931966465
+symbol: ETHUSDT
+clientOrderId: 1609931966000BUY_short
+side: SELL
+type: LIMIT
+timeInForce: GTC
+origQty: 0.043
+price: 1289.97
+avgPrice: 0.0
+stopPrice: 0.0
+executionType: NEW
+orderStatus: NEW
+orderId: 8389765490551134931
+lastFilledQty: 0.0
+cumulativeFilledQty: 0.0
+lastFilledPrice: 0.0
+commissionAsset: None
+commissionAmount: None
+orderTradeTime: 1609931966465
+tradeID: 0
+bidsNotional: 0.0
+asksNotional: 109.99916
+isMarkerSide: False
+isReduceOnly: False
+workingType: CONTRACT_PRICE
+isClosePosition: False
+activationPrice: None
+callbackRate: None
+positionSide: SHORT
+

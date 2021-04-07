@@ -1,0 +1,7 @@
+This error log was created at UTC: 1610017784.249398(2021-01-07 04:09:44(MDT)).
+
+
+====================================================================
+An ERROR happend in position handler function: APIError(code=-2021): Order would immediately trigger. at 2021-01-07 04:09:49.465208
+====================================================================
+

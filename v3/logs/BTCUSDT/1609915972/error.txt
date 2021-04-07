@@ -1,0 +1,7 @@
+This error log was created at UTC: 1609915972.3561332(2021-01-05 23:52:52(MDT)).
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.012' was not sent, was empty/null, or malformed. at 2021-01-05 23:53:19.627000
+====================================================================
+

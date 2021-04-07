@@ -1,0 +1,7 @@
+This error log was created at UTC: 1609896831.6682281(2021-01-05 18:33:51(MDT)).
+
+
+====================================================================
+An ERROR happend in position handler function: APIError(code=-1022): Signature for this request is not valid. at 2021-01-05 18:36:20.030036
+====================================================================
+

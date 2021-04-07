@@ -1,0 +1,901 @@
+This error log was created at UTC: 1609915253.826488(2021-01-05 23:40:53(MDT)).
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:40:59.512225
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:40:59.799091
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:00.138374
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:00.376608
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:00.664488
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:01.018124
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:01.278185
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:01.477168
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:01.964821
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:02.280915
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:02.782883
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:03.003727
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:03.238311
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:03.665893
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:03.955534
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:04.227198
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:04.602117
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:04.836412
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:05.259040
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:05.523676
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:05.799634
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:06.179731
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:06.434174
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:07.015769
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:07.286335
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:07.515298
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:07.780294
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:08.049559
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:08.339902
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:08.589437
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:09.043687
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:09.473796
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:09.721979
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:10.171882
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:10.662530
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:11.001681
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:11.268119
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:11.554958
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:11.907424
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:12.183373
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:12.615315
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:12.860617
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:13.108450
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:13.332324
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:13.642281
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:13.915647
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:14.161693
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:14.427908
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:14.660801
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:14.946956
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:15.167877
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:15.470924
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:15.844102
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:16.117420
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:16.355602
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:16.618712
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:17.057082
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:17.505260
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:17.817031
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:18.065920
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:18.333522
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:18.582863
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:19.114325
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:19.405767
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:19.668853
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:19.933451
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:20.420949
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:20.638596
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:20.936886
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:21.287676
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:21.511540
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:21.769750
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:22.014864
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:22.784345
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:23.046351
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:23.279912
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:23.522386
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:24.242661
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:24.485640
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:24.771970
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:25.039561
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:25.324085
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:25.811519
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:26.069310
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:26.317627
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:26.560958
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:26.782646
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:27.302564
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:27.524163
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:28.021431
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:28.438569
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:28.887212
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:29.136094
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:29.399633
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:29.681117
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:29.948705
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:30.215178
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:30.455939
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:30.713141
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:31.106733
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:31.590001
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:31.852123
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:32.352141
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:32.954018
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:33.198790
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:33.922594
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:34.217364
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:34.441850
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:34.692347
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:35.157387
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:35.400340
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:35.711202
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:35.963381
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:36.226855
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:36.502659
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:36.730230
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:36.998191
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:37.206575
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:37.456791
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:37.870580
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:38.090781
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:38.304454
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:38.528482
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:38.785951
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:39.155721
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:39.444143
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:39.681459
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:39.971361
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:40.473152
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:40.745608
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:41.068422
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:42.069787
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:42.346823
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:42.632900
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:42.951817
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:43.185108
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:43.411878
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:43.873071
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:44.405338
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:44.607138
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:45.277713
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:45.494079
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:46.074020
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:46.297647
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:46.525892
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:46.812194
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:47.365641
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:47.623613
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:47.951093
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1106): Parameter 'reduceOnly' sent when not required. at 2021-01-05 23:41:48.206462
+====================================================================
+

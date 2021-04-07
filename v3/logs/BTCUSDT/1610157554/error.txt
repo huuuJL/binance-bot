@@ -1,0 +1,91 @@
+This error log was created at UTC: 1610157554.096135(2021-01-08 18:59:14(MDT)).
+
+
+====================================================================
+An ERROR happend while monitoring services: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')) at 2021-01-08 19:56:14.796518
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-08 19:59:15.927287
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-08 19:59:16.143558
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-08 19:59:16.350444
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-08 19:59:17.549245
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-08 19:59:17.546920
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-08 19:59:17.593474
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while cancelling the timeout order: orderID:1610161793029, ERROR(APIError(code=-2011): Unknown order sent.) at 2021-01-08 20:10:04.268100
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while getting information for the timeout order: orderID:1610161793029, ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 20:10:04.524180
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while cancelling the timeout order: orderID:1610161793029, ERROR(APIError(code=-2011): Unknown order sent.) at 2021-01-08 20:10:06.784400
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while getting information for the timeout order: orderID:1610161793029, ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 20:10:07.037100
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while cancelling the timeout order: orderID:1610161793029, ERROR(APIError(code=-2011): Unknown order sent.) at 2021-01-08 20:10:09.359327
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while getting information for the timeout order: orderID:1610161793029, ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 20:10:09.691641
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while cancelling the timeout order: orderID:1610161793029, ERROR(APIError(code=-2011): Unknown order sent.) at 2021-01-08 20:10:11.983446
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while getting information for the timeout order: orderID:1610161793029, ERROR(can't multiply sequence by non-int of type 'str') at 2021-01-08 20:10:12.237297
+====================================================================
+

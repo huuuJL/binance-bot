@@ -1,0 +1,7 @@
+This error log was created at UTC: 1609920374.319649(2021-01-06 01:06:14(MDT)).
+
+
+====================================================================
+An ERROR happend in position handler function: APIError(code=-1128): Combination of optional parameters invalid. at 2021-01-06 01:06:20.100614
+====================================================================
+

@@ -1,0 +1,7 @@
+This error log was created at UTC: 1609865198.457124(2021-01-05 09:46:38(MDT)).
+
+
+====================================================================
+An ERROR happend in position handler function: APIError(code=-4024): Limit price can't be lower than 27568.74 at 2021-01-05 09:46:43.468342
+====================================================================
+

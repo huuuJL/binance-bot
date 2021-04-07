@@ -1,0 +1,74 @@
+This profit log was created at UTC: 1609931477.185993(2021-01-06 04:11:17(MDT)).
+
+
+====================================================================
+PNL for this order:
+clientOrderId: 1609931482000SELL_short_TP
+positionSide: SHORT
+entryPrice: 1153.3
+exitPrice: 1151.78
+TakeProfitAmount: 49.52654
+      TakeProfitQuantity: 0.043
+     TakeProfitPrice: 1151.78
+StopLossAmount: 0.0
+       StopLossQuantity: 0.0
+      StopLossPrice: 0.0
+Comission: 0.02974205
+Profit: 0.03561794999999831
+Start Datetime: 2021-01-06 04:11:22(MDT)
+Finished Datetime: 06/01/2021 04:11:41(MDT)
+====================================================================
+
+====================================================================
+PNL for this order:
+clientOrderId: 1609931502000SELL_short_TP
+positionSide: SHORT
+entryPrice: 1150.9
+exitPrice: 1149.38
+TakeProfitAmount: 50.572720000000004
+      TakeProfitQuantity: 0.044
+     TakeProfitPrice: 1149.38
+StopLossAmount: 0.0
+       StopLossQuantity: 0.0
+      StopLossPrice: 0.0
+Comission: 0.02024246
+Profit: 0.046637539999997604
+Start Datetime: 2021-01-06 04:11:42(MDT)
+Finished Datetime: 06/01/2021 04:11:58(MDT)
+====================================================================
+
+====================================================================
+PNL for this order:
+clientOrderId: 1609931518000SELL_short_TP
+positionSide: SHORT
+entryPrice: 1150.13
+exitPrice: 1148.61
+TakeProfitAmount: 50.53883999999999
+      TakeProfitQuantity: 0.044
+     TakeProfitPrice: 1148.61
+StopLossAmount: 0.0
+       StopLossQuantity: 0.0
+      StopLossPrice: 0.0
+Comission: 0.030350040000000002
+Profit: 0.03652996000001182
+Start Datetime: 2021-01-06 04:11:58(MDT)
+Finished Datetime: 06/01/2021 04:12:03(MDT)
+====================================================================
+
+====================================================================
+PNL for this order:
+clientOrderId: 1609931523000SELL_short_TP
+positionSide: SHORT
+entryPrice: 1148.73
+exitPrice: 1147.21
+TakeProfitAmount: 50.47724
+      TakeProfitQuantity: 0.044
+     TakeProfitPrice: 1147.21
+StopLossAmount: 0.0
+       StopLossQuantity: 0.0
+      StopLossPrice: 0.0
+Comission: 0.03031308
+Profit: 0.03656691999999761
+Start Datetime: 2021-01-06 04:12:03(MDT)
+Finished Datetime: 06/01/2021 04:12:08(MDT)
+====================================================================

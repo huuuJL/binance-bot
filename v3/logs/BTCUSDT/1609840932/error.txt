@@ -1,0 +1,301 @@
+This error log was created at UTC: 1609840932.526687(2021-01-05 03:02:12).
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:13.852796
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:13.897558
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.034417
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.065962
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.114488
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.156098
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.202591
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.234825
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.328623
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.390890
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.436105
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.462175
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.506532
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.588766
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.608877
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.645578
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.678904
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.711595
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.754348
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.766239
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.840386
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.923214
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:14.968997
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.004202
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.041434
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.078670
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.102400
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.133735
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.164085
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.204416
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.299504
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.341891
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.342251
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.348116
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.381164
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.413061
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.453863
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.497437
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.534112
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.569924
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.605170
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.623108
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.641623
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.722634
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.775164
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.818555
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.848775
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.884120
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.949280
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling position status: 'Position' object has no attribute 'amount' at 2021-01-05 03:02:15.980247
+====================================================================
+

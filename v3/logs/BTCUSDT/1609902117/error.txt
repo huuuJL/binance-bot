@@ -1,0 +1,7 @@
+This error log was created at UTC: 1609902117.4592488(2021-01-05 20:01:57(MDT)).
+
+
+====================================================================
+An ERROR happend in position handler function: APIError(code=-4136): Target strategy invalid for orderType TAKE_PROFIT,closePosition true at 2021-01-05 20:02:07.825529
+====================================================================
+

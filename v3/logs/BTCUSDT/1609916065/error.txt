@@ -1,0 +1,49 @@
+This error log was created at UTC: 1609916065.5005481(2021-01-05 23:54:25(MDT)).
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.012' was not sent, was empty/null, or malformed. at 2021-01-05 23:56:18.561729
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.012' was not sent, was empty/null, or malformed. at 2021-01-05 23:56:21.910991
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.012' was not sent, was empty/null, or malformed. at 2021-01-05 23:56:25.199235
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.012' was not sent, was empty/null, or malformed. at 2021-01-05 23:56:28.497981
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.012' was not sent, was empty/null, or malformed. at 2021-01-05 23:56:31.815201
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.012' was not sent, was empty/null, or malformed. at 2021-01-05 23:56:35.294854
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.012' was not sent, was empty/null, or malformed. at 2021-01-05 23:56:38.737588
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1102): Mandatory parameter '-0.012' was not sent, was empty/null, or malformed. at 2021-01-05 23:56:42.094275
+====================================================================
+

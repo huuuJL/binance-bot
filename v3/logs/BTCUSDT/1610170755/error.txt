@@ -1,0 +1,79 @@
+This error log was created at UTC: 1610170755.780076(2021-01-08 22:39:15(MDT)).
+
+
+====================================================================
+An ERROR happend while cancelling the timeout order: orderID:1610172782390, ERROR(APIError(code=-2011): Unknown order sent.) at 2021-01-08 23:13:13.202434
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610172782390SELL_LONG_TP ERROR(APIError(code=-1021): Timestamp for this request is outside of the recvWindow.) at 2021-01-08 23:14:27.104966
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while cancelling the order: 1610172782390SELL_LONG_TP, ERROR(APIError(code=-2011): Unknown order sent.) at 2021-01-08 23:17:01.854297
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling an order: list index out of range at 2021-01-08 23:17:02.020055
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling/updating position status: dictionary changed size during iteration at 2021-01-08 23:17:05.290090
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-08 23:39:17.512415
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-08 23:39:17.457027
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-08 23:39:18.584864
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-08 23:39:18.612543
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while cancelling the order: 1610174281889SELL_LONG_TP, ERROR(APIError(code=-2011): Unknown order sent.) at 2021-01-08 23:42:36.189739
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while cancelling the order: 1610174281889SELL_LONG_TP, ERROR(APIError(code=-2011): Unknown order sent.) at 2021-01-08 23:42:44.505705
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while cancelling the order: 1610174281889SELL_LONG_TP, ERROR(APIError(code=-2011): Unknown order sent.) at 2021-01-08 23:42:52.520331
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while cancelling the order: 1610174281889SELL_LONG_TP, ERROR(APIError(code=-2011): Unknown order sent.) at 2021-01-08 23:43:00.179116
+====================================================================
+

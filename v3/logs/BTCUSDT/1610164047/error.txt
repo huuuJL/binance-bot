@@ -1,0 +1,97 @@
+This error log was created at UTC: 1610164047.076329(2021-01-08 20:47:27(MDT)).
+
+
+====================================================================
+An ERROR happend while fetching order status: orderID: 1610164141831BUY_SHORT_TP ERROR(APIError(code=-1021): Timestamp for this request is outside of the recvWindow.) at 2021-01-08 21:00:15.996233
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling an order: '1610164141831' at 2021-01-08 21:02:20.472808
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling/updating position status: dictionary changed size during iteration at 2021-01-08 21:02:22.788630
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling an order: '1610164954828' at 2021-01-08 21:05:01.237802
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while placing a limit order: APIError(code=-1021): Timestamp for this request is outside of the recvWindow. at 2021-01-08 21:23:34.941078
+====================================================================
+
+
+
+====================================================================
+An ERROR happend in position handler function: can't multiply sequence by non-int of type 'str' at 2021-01-08 21:25:10.339694
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling/updating position status: dictionary changed size during iteration at 2021-01-08 21:25:14.732058
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-08 21:47:29.998668
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-08 21:47:29.990161
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-08 21:47:30.173510
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-08 21:47:30.688702
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-08 21:47:31.008388
+====================================================================
+
+
+
+====================================================================
+User data subscription error: SubscriptionErrorProcess error: ('ExecuteError', '[Executing] -1125: This listenKey does not exist.') You should capture the exception in your error handler at 2021-01-08 21:47:30.988064
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while handling an order: dictionary changed size during iteration at 2021-01-08 21:55:19.242122
+====================================================================
+
+
+
+====================================================================
+An ERROR happend while cancelling the timeout order: orderID:1610168119286, ERROR(APIError(code=-2011): Unknown order sent.) at 2021-01-08 21:55:30.259726
+====================================================================
+
+
+
+====================================================================
+An ERROR happend in position handler function: can't multiply sequence by non-int of type 'float' at 2021-01-08 21:55:32.549657
+====================================================================
+

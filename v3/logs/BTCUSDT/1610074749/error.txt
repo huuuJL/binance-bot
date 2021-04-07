@@ -1,0 +1,7 @@
+This error log was created at UTC: 1610074749.282042(2021-01-07 19:59:09(MDT)).
+
+
+====================================================================
+An ERROR happend in position handler function: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time. at 2021-01-07 20:01:47.429310
+====================================================================
+

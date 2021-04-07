@@ -1,0 +1,7 @@
+This error log was created at UTC: 1610018575.989857(2021-01-07 04:22:55(MDT)).
+
+
+====================================================================
+An ERROR happend while monitoring services: HTTPSConnectionPool(host='api.binance.com', port=443): Read timed out. (read timeout=10) at 2021-01-07 04:23:16.535384
+====================================================================
+

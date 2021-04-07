@@ -1,0 +1,7 @@
+This error log was created at UTC: 1609898660.179449(2021-01-05 19:04:20(MDT)).
+
+
+====================================================================
+An ERROR happend in position handler function: 'RequestClient' object has no attribute 'futures_cancel_orders' at 2021-01-05 19:08:19.692027
+====================================================================
+
