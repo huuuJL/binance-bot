@@ -4,7 +4,7 @@ This trading bot was built with the Binance official Binance Python SDK.
 
 
 # Features & functionality
-1. Real-time cryypto price trackng and indicators calculation.
+1. Real-time crypto price trackng and indicators calculation.
 2. Automatically make future limit orders based on the value of indicators.
     - Indicators include: MACD, EMA, RSI, EMV
 3. Automatically monitor if a limit order is successfully made.
